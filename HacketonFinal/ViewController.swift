@@ -8,15 +8,14 @@
 import UIKit
 
 class ViewController: UIViewController {
-
-    @IBOutlet weak var outputLabel: UILabel!
     
-    override func viewDidLoad() {
-        super.viewDidLoad()
-        // Do any additional setup after loading the view.
+    @IBOutlet weak var label: UILabel!
+    
+    
+    @IBAction func numbers(_ sender: UIButton) {
+        label.text = label.text! + String(sender.tag-1)
+        
+        
     }
-    
-    
-    
     
 }
