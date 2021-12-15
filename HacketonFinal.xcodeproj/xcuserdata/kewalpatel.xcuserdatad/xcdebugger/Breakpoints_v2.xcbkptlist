@@ -5,19 +5,13 @@
    version = "2.0">
    <Breakpoints>
       <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         BreakpointExtensionID = "Xcode.Breakpoint.IDETestFailureBreakpoint">
          <BreakpointContent
-            uuid = "5116AEA7-1BD4-4DD2-95F2-956B509F6A23"
+            uuid = "95640171-FD2E-4E5D-94F7-28481844747A"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "HacketonFinal/AppDelegate.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "10"
-            endingLineNumber = "10"
-            landmarkName = "AppDelegate"
-            landmarkType = "3">
+            breakpointStackSelectionBehavior = "1">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
